@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Metéo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Metéo" parent="Base.Theme.Metéo" />
+    <style name="Theme.Meteo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- existing items -->
+
+        <!-- Force AppCompat button, disable Material3 overlay -->
+        <item name="materialButtonStyle">@style/Widget.AppCompat.Button</item>
+    </style>
+
+</resources>

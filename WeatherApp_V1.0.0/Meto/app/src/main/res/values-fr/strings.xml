@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Météo</string>
+    <string name="weather_app_title">APPLICATION MÉTÉO</string>
+    <string name="enter_city_hint">Entrez le nom de la ville</string>
+    <string name="select_city">Sélectionnez une ville</string>
+    <string name="search_button">Rechercher</string>
+    <string name="loading_text">Chargement des données météorologiques...</string>
+    <string name="wind_info_button">Afficher les informations sur le vent</string>
+    <string name="clear_history_button">Effacer l\'historique</string>
+    <string name="enter_city_error">Entrez une ville</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="search_for_city">Recherchez d\'abord une ville!</string>
+    <string name="invalid_weather_data">Données météorologiques invalides</string>
+    <string name="api_error">Erreur API: </string>
+    <string name="error_label">Erreur: </string>
+    <string name="history_cleared">Historique effacé</string>
+    <string name="wind_information">Informations sur le vent</string>
+    <string name="wind_speed">Vitesse du vent: %.2f m/s</string>
+    <string name="wind_gust">Rafales de vent: %.2f m/s</string>
+    <string name="wind_direction">Direction du vent: %d°</string>
+    <string name="weather_in">Météo à %s</string>
+    <string name="back_button">Retour</string>
+    <string name="temperature_format">%s\n\nTempérature: %.1f°C\nHumidité: %d%%\nCondition: %s</string>
+    <string name="city_not_found">Ville non trouvée. Veuillez vérifier l\'orthographe et réessayer.</string>
+    <string name="network_error_detailed">Erreur réseau. Veuillez vérifier votre connexion Internet.</string>
+    <string name="server_error">Erreur serveur. Veuillez réessayer plus tard.</string>
+    <string name="invalid_input">Veuillez entrer un nom de ville valide.</string>
+    <string name="retry_button">Réessayer</string>
+    <string name="error_occurred">Une erreur s\'est produite</string>
+    <string name="connection_timeout">Délai d\'expiration de la connexion. Veuillez réessayer.</string>
+    <string name="no_results">Aucun résultat trouvé pour cette ville.</string>
+</resources>
